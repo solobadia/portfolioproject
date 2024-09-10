@@ -1,2 +1,2 @@
 # portfolioproject
-Idea for portfolio website
+Idea for online portfolio website
